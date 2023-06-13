@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.lightcoral {
+    color: lightcoral;
+}
+
+.altra-classe {
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.ciccio {
+    border: 10px dashed red;
+}
